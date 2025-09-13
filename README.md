@@ -1,4 +1,4 @@
-<img width="933" height="527" alt="image" src="https://github.com/user-attachments/assets/6805ff02-fdda-4acd-9da6-fea39f11167b" /># 🖥️ Windows Server 2019 – WSUS Configuration & Active Directory Backup Lab
+# 🖥️ Windows Server 2019 – WSUS Configuration & Active Directory Backup Lab
 
 This project demonstrates **Windows Server Update Services (WSUS) configuration** and **Active Directory (AD) backup and authoritative restore** on Windows Server 2019.  
 
@@ -99,5 +99,3 @@ This project demonstrates **Windows Server Update Services (WSUS) configuration*
 - System recovery and disaster management  
 
 ---
-
-## 📂 Repository Structure
